@@ -84,7 +84,7 @@ author:
   avatar           : "profile_pramesh_grey.jpg"
   bio              : "Charting Transportation with Machine Learning & Statistics"
   location         : "Tucson, AZ"
-  employer         : "The University of Arizona"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DIGFMf4AAAAJ"
   email            : "pramesh@arizona.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pramesh-pudasaini/"
+  linkedin         : "pramesh-pudasaini"
   orcid            : 
   pinterest        :
   soundcloud       :
