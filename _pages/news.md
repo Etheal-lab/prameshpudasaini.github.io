@@ -9,7 +9,7 @@ author_profile: true
 
 Last updated: September 25, 2023
 
-## 2023
+# 2023
 
 - September 21, 2023: Attended the *2023 ITS Arizona 30th Annual Conference* in Mesa, AZ, leading a team of three UAITE officers and two student members to participate
 
@@ -33,7 +33,7 @@ Last updated: September 25, 2023
 
 - January 8-11, 2023: Presented (poster) “Real-time Queue Length Estimation for Signalized Intersections using Single-channel Advance Detector Data” at the *Transportation Research Board 102nd Annual Meeting* in Washington, D.C.
 
-## 2022
+# 2022
 
 - November 14, 2022: Awarded *UArizona NITC Travel Support Award* ($1,500)
 
@@ -59,7 +59,7 @@ Last updated: September 25, 2023
 
 - January 11, 2022: **Published paper** “Pudasaini, P., Shrestha, J. K., & Lopes, R. B. (2021). A multi-objective analysis of a petroleum transportation network under uncertainty. *International Journal of Logistics Systems and Management*, 40(3), 377-395.” [DOI](https://doi.org/10.1504/IJLSM.2021.120254)
 
-## 2021
+# 2021
 
 - November 23, 2021: Presented “Network-wide Corridor Performance Assessment: A Multi-Criteria Decision-Making Approach” in the *CATS Research Presentation Meeting Series* at the University of Arizona
 
@@ -71,7 +71,7 @@ Last updated: September 25, 2023
 
 - April 29, 2021: **Published paper** “Pudasaini, P. (2021). Integrated planning of downstream petroleum supply chain: A multi-objective stochastic approach. *Operations Research Perspectives*, 8, 100189.” [DOI](https://doi.org/10.1016/j.orp.2021.100189)
 
-## Pre-2021
+# Pre-2021
 
 - May 22, 2019: **Defended Master’s thesis** titled “A multi-objective analysis of a petroleum transportation network under uncertainty” in the *Department of Civil Engineering* at Pulchowk Campus, Tribhuvan University
 
