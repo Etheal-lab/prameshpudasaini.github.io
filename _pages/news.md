@@ -7,11 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-Last updated: September 25, 2023
+Last updated: October 11, 2023
 
 # 2023
 
+- October 11, 2023: Hosted and co-organized the second *UAITE Speaker Series Event* in partnership with the Southern Arizona ITE Chapter: an afternoon of networking and a guest speaker presentation on the "City of Tucson Downtown Links Project" at the University of Arizona
+
 - September 21, 2023: Attended the *2023 ITS Arizona 30th Annual Conference* in Mesa, AZ, leading a team of three UAITE officers and two student members to participate
+
+- September 13, 2023: Hosted and co-organized the first *UAITE Speaker Series Event* in partnership with the Southern Arizona ITE Chapter: an afternoon of networking and a guest speaker presentation on "[Currux Vision](https://currux.vision/)" at the University of Arizona
 
 - September 8, 2023: **Awarded** the *Delbert R. Lewis Graduate Fellowship* ($2,200)
 
@@ -41,7 +45,7 @@ Last updated: September 25, 2023
 
 - September 21, 2022: Presented “Real-time Cycle-based Queue Length Estimation for Signalized Intersections using Single-channel Advance Detector Data” in the *CATS Research Presentation Meeting Series* at the University of Arizona
 
-- September 16, 2022: **Elected as Secretary** of the *Civil & Architectural Engineering & Mechanics Graduate Association (CAEMGA)* at the University of Arizona
+- September 16, 2022: **Elected as Secretary** of the *Civil & Architectural Engineering & Mechanics Graduate Association (CAEMGA)* at the University of Arizona (October 2022 - September 2023)
 
 - July 1, 2022: Awarded *UArizona NITC Travel Support Award* ($500)
 
