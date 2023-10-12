@@ -11,11 +11,11 @@ Last updated: October 11, 2023
 
 # 2023
 
-- October 11, 2023: Hosted and co-organized the second *UAITE Speaker Series Event* in partnership with the Southern Arizona ITE Chapter: an afternoon of networking and a guest speaker presentation on the "City of Tucson Downtown Links Project" at the University of Arizona
+- October 11, 2023: Hosted and co-organized the second *UAITE Speaker Series Event*, in partnership with the Southern Arizona ITE Chapter, for networking and a guest speaker presentation on the "City of Tucson Downtown Links Project" at the University of Arizona
 
 - September 21, 2023: Attended the *2023 ITS Arizona 30th Annual Conference* in Mesa, AZ, leading a team of three UAITE officers and two student members to participate
 
-- September 13, 2023: Hosted and co-organized the first *UAITE Speaker Series Event* in partnership with the Southern Arizona ITE Chapter: an afternoon of networking and a guest speaker presentation on "[Currux Vision](https://currux.vision/)" at the University of Arizona
+- September 13, 2023: Hosted and co-organized the first *UAITE Speaker Series Event*, in partnership with the Southern Arizona ITE Chapter, for networking and a guest speaker presentation on "[Currux Vision](https://currux.vision/)" at the University of Arizona
 
 - September 8, 2023: **Awarded** the *Delbert R. Lewis Graduate Fellowship* ($2,200)
 
