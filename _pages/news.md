@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Last updated: October 11, 2023
+Last updated: October 17, 2023
 
 # 2023
+
+- October 15-17, 2023: Attended the *2023 INFORMS Annual Meeting* in Phoenix, AZ
+    - October 16: **Presented a lecture** on "Applying Data-Driven Research to Real-World Traffic Operations Issues (Authors: Pramesh Pudasaini, Yao-Jan Wu)
 
 - October 11, 2023: Hosted and co-organized the second *UAITE Speaker Series Event*, in partnership with the Southern Arizona ITE Chapter, for networking and a guest speaker presentation on the "City of Tucson Downtown Links Project" at the University of Arizona
 
@@ -21,7 +24,8 @@ Last updated: October 11, 2023
 
 - September 6, 2023: Presented “Evaluating Communication Technologies for Effective Traffic Monitoring: Project Overview” in the *CATS Project Presentation Meeting Series* at the University of Arizona
 
-- June 15-16, 2023: Presented (lectern) “Intersection Queue Length Estimation using High-Resolution Event Data” at the *ASCE International Conference on Transportation and Development 2023* in Austin, TX
+- June 15-16, 2023: Attended the *ASCE International Conference on Transportation and Development 2023* in Austin, TX
+    - June 16: **Presented a lecture** on “Intersection Queue Length Estimation using High-Resolution Event Data” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
 
 - May 23, 2023: **Elected as President** of the *UA Institute of Transportation Engineers (UAITE) Student Chapter* for academic year 2023-24 at the University of Arizona
 
@@ -35,7 +39,8 @@ Last updated: October 11, 2023
 
 - January 30, 2023: **Published paper** “Pudasaini, P., Karimpour, A., & Wu, Y.-J. (2023). Real-Time Queue Length Estimation for Signalized Intersections Using Single-Channel Advance Detector Data. *Transportation Research Record*, 2677(7), 144–156.” [DOI](https://doi.org/10.1177/03611981221151066)
 
-- January 8-11, 2023: Presented (poster) “Real-time Queue Length Estimation for Signalized Intersections using Single-channel Advance Detector Data” at the *Transportation Research Board 102nd Annual Meeting* in Washington, D.C.
+- January 8-11, 2023: Attended the *Transportation Research Board 102nd Annual Meeting* in Washington, D.C.
+    - January 11: Presented a poster on “Real-time Queue Length Estimation for Signalized Intersections using Single-channel Advance Detector Data” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
 
 # 2022
 
@@ -66,6 +71,10 @@ Last updated: October 11, 2023
 # 2021
 
 - November 23, 2021: Presented “Network-wide Corridor Performance Assessment: A Multi-Criteria Decision-Making Approach” in the *CATS Research Presentation Meeting Series* at the University of Arizona
+
+- October 7, 2021: Attended the *2021 Arizona Conference on Roads & Streets* in Tucson, AZ
+
+- September 30, 2021: Attended the *2021 ITS Arizona 28th Annual Conference* in Mesa, AZ
 
 - August 2021: **Started Ph.D.** in *Transportation Engineering* at the University of Arizona
 
