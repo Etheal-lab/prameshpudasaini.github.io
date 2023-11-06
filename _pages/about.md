@@ -8,4 +8,3 @@ redirect_from:
   - /about.html
 ---
 
-You can go through my Resume and the News section.

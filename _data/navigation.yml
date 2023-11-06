@@ -1,6 +1,13 @@
-# main links links
+# navigation bar menus
 main:
   - title: "Resume"
     url: /files/Resume.pdf
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/
+
   - title: "News"
     url: /news/

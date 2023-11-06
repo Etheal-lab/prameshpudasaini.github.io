@@ -7,9 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Last updated: October 17, 2023
+Last updated: November 5, 2023
 
 # 2023
+
+- November 2, 2023: Attended the *2021 Arizona Conference on Roads & Streets* in Tucson, AZ
 
 - October 15-17, 2023: Attended the *2023 INFORMS Annual Meeting* in Phoenix, AZ
     - October 16: **Presented a lecture** on "Applying Data-Driven Research to Real-World Traffic Operations Issues (Authors: Pramesh Pudasaini, Yao-Jan Wu)

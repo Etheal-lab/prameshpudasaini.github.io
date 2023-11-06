@@ -1,16 +1,60 @@
 ---
-layout: archive
+layout: page
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+Last updated: November 5, 2023
+
+# Journal Papers
+
+{% for entry in site.data.citations %}
+  {% if entry.category == "journal" %}
+    - **{{ entry.title }}**  
+    {{ entry.author }}  
+    *{{ entry.journal }}*, {{ entry.year }}.
+  {% endif %}
+{% endfor %}
+
+# Technical Reports
+
+{% for entry in site.data.citations %}
+  {% if entry.category == "report" %}
+    - **{{ entry.title }}**  
+    {{ entry.author }}  
+    *{{ entry.journal }}*, {{ entry.year }}.
+  {% endif %}
+{% endfor %}
+
+# Thesis
+
+{% for entry in site.data.citations %}
+  {% if entry.category == "thesis" %}
+    - **{{ entry.title }}**  
+    {{ entry.author }}  
+    *{{ entry.journal }}*, {{ entry.year }}.
+  {% endif %}
+{% endfor %}
+
+# Conference Presentations
+
+{% for entry in site.data.citations %}
+  {% if entry.category == "conference" %}
+    - **{{ entry.title }}**  
+    {{ entry.author }}  
+    *{{ entry.journal }}*, {{ entry.year }}.
+  {% endif %}
+{% endfor %}
+
+# Invited Talks & Presentations
+
+{% for entry in site.data.citations %}
+  {% if entry.category == "presentation" %}
+    - **{{ entry.title }}**  
+    {{ entry.author }}  
+    *{{ entry.journal }}*, {{ entry.year }}.
+  {% endif %}
 {% endfor %}
