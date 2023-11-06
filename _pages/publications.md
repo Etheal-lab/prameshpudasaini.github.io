@@ -11,15 +11,15 @@ Last updated: November 5, 2023
 
 # Journal Papers
 
-- P. Pudasaini, H. Haule, and Y.-J. Wu, “Empirical analysis of dilemma zone using high-resolution event data,” Transportmetrica B: Transport Dynamics, 2023, (Under review).
+- P. Pudasaini, H. Haule, and Y.-J. Wu, “Empirical analysis of dilemma zone using high-resolution event data,” *Transportmetrica B: Transport Dynamics*, 2023, (Under review).
 
-- P. Pudasaini, A. Karimpour, and Y.-J. Wu, “Real-time queue length estimation for signalized intersections using single-channel advance detector data,” Transportation Research Record, vol. 2677, no. 7, pp. 144–156, 2023, doi: [10.1177/03611981221151066](https://doi.org/10.1177/03611981221151066).
+- P. Pudasaini, A. Karimpour, and Y.-J. Wu, “Real-time queue length estimation for signalized intersections using single-channel advance detector data,” *Transportation Research Record*, vol. 2677, no. 7, pp. 144–156, 2023, doi: [10.1177/03611981221151066](https://doi.org/10.1177/03611981221151066).
 
-- P. Pudasaini, “Integrated planning of downstream petroleum supply chain: a multi-objective stochastic approach,” Operations Research Perspectives, vol. 8, p. 100189, 2021, doi: [10.1016/j.orp.2021.100189](https://doi.org/10.1016/j.orp.2021.100189).
+- P. Pudasaini, “Integrated planning of downstream petroleum supply chain: a multi-objective stochastic approach,” *Operations Research Perspectives*, vol. 8, p. 100189, 2021, doi: [10.1016/j.orp.2021.100189](https://doi.org/10.1016/j.orp.2021.100189).
 
-- J. K. Shrestha, P. Pudasaini, and L. Mussone, “Rural road network performance and pre-disaster planning: an assessment methodology considering redundancy,” Transportation Planning and Technology, vol. 44, no. 7, pp. 726–743, 2021, doi: [10.1080/03081060.2021.1956809](https://doi.org/10.1080/03081060.2021.1956809).
+- J. K. Shrestha, P. Pudasaini, and L. Mussone, “Rural road network performance and pre-disaster planning: an assessment methodology considering redundancy,” *Transportation Planning and Technology*, vol. 44, no. 7, pp. 726–743, 2021, doi: [10.1080/03081060.2021.1956809](https://doi.org/10.1080/03081060.2021.1956809).
 
-- P. Pudasaini, J. K. Shrestha, and R. B. Lopes, “A multi-objective analysis of a petroleum transportation network under uncertainty,” International Journal of Logistics Systems and Management, vol. 40, no. 3, pp. 377–395, 2021, doi: [10.1504/IJLSM.2021.120254](https://doi.org/10.1504/IJLSM.2021.120254).
+- P. Pudasaini, J. K. Shrestha, and R. B. Lopes, “A multi-objective analysis of a petroleum transportation network under uncertainty,” *International Journal of Logistics Systems and Management*, vol. 40, no. 3, pp. 377–395, 2021, doi: [10.1504/IJLSM.2021.120254](https://doi.org/10.1504/IJLSM.2021.120254).
 
 # Technical Reports
 
