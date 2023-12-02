@@ -7,20 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
-Last updated: November 5, 2023
+Last updated: December 2, 2023
 
 # 2023
+
+- December 1, 2023: Presented a lecture on “An XGBoost-based Optimization Framework for Vehicle Reidentification at Intersection Approach” in the *CE 596A Graduate Seminar* at the University of Arizona
+
+- November 22, 2023: **Awarded** the *Graduate and Professional Student Council (GPSC) Travel Grant* ($980)
+
+- November 6, 2023: Hosted and organized the third *UAITE Speaker Series Event* for networking and a guest speaker presentation on "Solving Transportation Problems to Improve People's Lives - A Career in Transportation"
 
 - November 2, 2023: Attended the *2021 Arizona Conference on Roads & Streets* in Tucson, AZ
 
 - October 15-17, 2023: Attended the *2023 INFORMS Annual Meeting* in Phoenix, AZ
     - October 16: **Presented a lecture** on "Applying Data-Driven Research to Real-World Traffic Operations Issues (Authors: Pramesh Pudasaini, Yao-Jan Wu)
 
-- October 11, 2023: Hosted and co-organized the second *UAITE Speaker Series Event*, in partnership with the Southern Arizona ITE Chapter, for networking and a guest speaker presentation on the "City of Tucson Downtown Links Project" at the University of Arizona
+- October 11, 2023: Hosted and co-organized the second *UAITE Speaker Series Event*, in partnership with the Southern Arizona ITE Chapter, for networking and a guest speaker presentation on the "City of Tucson Downtown Links Project"
 
 - September 21, 2023: Attended the *2023 ITS Arizona 30th Annual Conference* in Mesa, AZ, leading a team of three UAITE officers and two student members to participate
 
-- September 13, 2023: Hosted and co-organized the first *UAITE Speaker Series Event*, in partnership with the Southern Arizona ITE Chapter, for networking and a guest speaker presentation on "[Currux Vision](https://currux.vision/)" at the University of Arizona
+- September 13, 2023: Hosted and co-organized the first *UAITE Speaker Series Event*, in partnership with the Southern Arizona ITE Chapter, for networking and a guest speaker presentation on "[Currux Vision](https://currux.vision/)"
 
 - September 8, 2023: **Awarded** the *Delbert R. Lewis Graduate Fellowship* ($2,200)
 
