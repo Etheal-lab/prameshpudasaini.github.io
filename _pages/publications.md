@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-:calendar:Last updated: January 12, 2024
+📅 Last updated: January 12, 2024
 
 # Journal Papers
 
