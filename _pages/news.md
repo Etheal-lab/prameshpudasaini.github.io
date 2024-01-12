@@ -7,7 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Last updated: December 2, 2023
+Last updated: January 12, 2024
+
+# 2024
+
+- January 7-11, 2024: Attended the *Transportation Research Board 103rd Annual Meeting* in Washington, D.C.
+    - January 8: Presented a poster on “Empirical Analysis of Dilemma Zone Using High-Resolution Event-Based Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
 
 # 2023
 
