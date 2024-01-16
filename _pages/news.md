@@ -14,23 +14,16 @@ author_profile: true
 - January 7-11, 2024: Attended the *Transportation Research Board 103rd Annual Meeting* in Washington, D.C.
     - January 8: Presented a poster on “Empirical Analysis of Dilemma Zone Using High-Resolution Event-Based Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
 
-<figure style="text-align: center;">
-    <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 60%; display: block;">
-    <figcaption style="text-align: center;">
-        01/08/2024: Poster presentation
-    </figcaption>
-</figure>
-
-# 2023
-
-- December 1, 2023: Presented a lecture on “An XGBoost-based Optimization Framework for Vehicle Reidentification at Intersection Approach” in the *CE 596A Graduate Seminar* at the University of Arizona
-
 <p align="center">
   <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 50%;">
 </p>
 <p align="center">
-  <em>01/08/2024: Poster presentation</em>
+  <span style="font-size: smaller;">01/08/2024: Poster presentation</span>
 </p>
+
+# 2023
+
+- December 1, 2023: Presented a lecture on “An XGBoost-based Optimization Framework for Vehicle Reidentification at Intersection Approach” in the *CE 596A Graduate Seminar* at the University of Arizona
 
 - November 22, 2023: **Awarded** the *Graduate and Professional Student Council (GPSC) Travel Grant* ($980)
 
@@ -60,12 +53,12 @@ author_profile: true
 
 - April 13, 2023: **Awarded** the *Roots for Resilience Data Science Scholarship* ($7,000)
 
-<figure style="text-align: center;">
-    <img src="/images/news/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width: 60%; display: block;">
-    <figcaption style="text-align: center;">
-        11/21/2023: Certification for completing the Roots for Resilience program and CyVerse FOSS workshops
-    </figcaption>
-</figure>
+<p align="center">
+  <img src="/images/news/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width: 50%;">
+</p>
+<p align="center">
+  <span style="font-size: smaller;">11/21/2023: Certification for completing the Roots for Resilience program and CyVerse FOSS workshops</span>
+</p>
 
 - April 13, 2023: Awarded *UArizona NITC Travel Support Award* ($1,492.12)
 
