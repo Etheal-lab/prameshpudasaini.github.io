@@ -25,6 +25,13 @@ author_profile: true
 
 - December 1, 2023: Presented a lecture on “An XGBoost-based Optimization Framework for Vehicle Reidentification at Intersection Approach” in the *CE 596A Graduate Seminar* at the University of Arizona
 
+<p align="center">
+  <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 50%;">
+</p>
+<p align="center">
+  <em>01/08/2024: Poster presentation</em>
+</p>
+
 - November 22, 2023: **Awarded** the *Graduate and Professional Student Council (GPSC) Travel Grant* ($980)
 
 - November 6, 2023: Hosted and organized the third *UAITE Speaker Series Event* for networking and a guest speaker presentation on "Solving Transportation Problems to Improve People's Lives - A Career in Transportation"
