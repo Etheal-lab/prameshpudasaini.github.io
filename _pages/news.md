@@ -14,6 +14,11 @@ author_profile: true
 - January 7-11, 2024: Attended the *Transportation Research Board 103rd Annual Meeting* in Washington, D.C.
     - January 8: Presented a poster on “Empirical Analysis of Dilemma Zone Using High-Resolution Event-Based Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
 
+<figure style="text-align: center;">
+    <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width:75%; display: block; margin: 0 auto;">
+    <figcaption style="text-align: center;">01/08/2023: Presenting poster at the TRBAM</figcaption>
+</figure>
+
 # 2023
 
 - December 1, 2023: Presented a lecture on “An XGBoost-based Optimization Framework for Vehicle Reidentification at Intersection Approach” in the *CE 596A Graduate Seminar* at the University of Arizona
@@ -46,9 +51,9 @@ author_profile: true
 
 - April 13, 2023: **Awarded** the *Roots for Resilience Data Science Scholarship* ($7,000)
 
-<figure>
-    <img src="/files/images/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width:50%">
-    <figcaption style="text-align: center;">11/21/2023: Certification for completing the R4R program and CyVerse FOSS workshops</figcaption>
+<figure style="text-align: center;">
+    <img src="/images/news/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width:50%; display: block; margin: 0 auto;">
+    <figcaption style="text-align: center;">11/21/2023: Certification for completing the Roots for Resilience program and CyVerse FOSS workshops</figcaption>
 </figure>
 
 - April 13, 2023: Awarded *UArizona NITC Travel Support Award* ($1,492.12)
