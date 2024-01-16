@@ -15,7 +15,7 @@ author_profile: true
     - January 8: Presented a poster on “Empirical Analysis of Dilemma Zone Using High-Resolution Event-Based Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
 
 <p align="center" style="margin-bottom: 0;">
-  <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 50%;">
+  <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 60%;">
 </p>
 <p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">01/08/2024: Poster presentation at the TRB Annual Meeting</span>
@@ -53,8 +53,8 @@ author_profile: true
 
 - April 13, 2023: **Awarded** the *Roots for Resilience Data Science Scholarship* ($7,000)
 
-<p align="center">
-  <img src="/images/news/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width: 50%;">
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width: 60%;">
 </p>
 <p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">11/21/2023: Certification for completing the Roots for Resilience program and CyVerse FOSS workshops</span>
@@ -68,6 +68,13 @@ author_profile: true
 
 - January 8-11, 2023: Attended the *Transportation Research Board 102nd Annual Meeting* in Washington, D.C.
     - January 11: Presented a poster on “Real-time Queue Length Estimation for Signalized Intersections using Single-channel Advance Detector Data” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20230111_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 60%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">01/11/2023: Poster presentation at the TRB Annual Meeting</span>
+</p>
 
 # 2022
 
