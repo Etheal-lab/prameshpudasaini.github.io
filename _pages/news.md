@@ -18,7 +18,7 @@ author_profile: true
   <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 50%;">
 </p>
 <p align="center" style="margin-top: 0;">
-  <span style="font-size: smaller;">01/08/2024: Poster presentation</span>
+  <span style="font-size: smaller;">01/08/2024: Poster presentation at the TRB Annual Meeting</span>
 </p>
 
 # 2023
@@ -53,10 +53,10 @@ author_profile: true
 
 - April 13, 2023: **Awarded** the *Roots for Resilience Data Science Scholarship* ($7,000)
 
-<p align="center" style="margin-bottom: 0;">
+<p align="center">
   <img src="/images/news/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width: 50%;">
 </p>
-<p align="center">
+<p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">11/21/2023: Certification for completing the Roots for Resilience program and CyVerse FOSS workshops</span>
 </p>
 
