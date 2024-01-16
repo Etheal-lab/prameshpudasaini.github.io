@@ -7,17 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-📅 Last updated: January 12, 2024
+📅 Last updated: January 16, 2024
 
 # 2024
 
 - January 7-11, 2024: Attended the *Transportation Research Board 103rd Annual Meeting* in Washington, D.C.
     - January 8: Presented a poster on “Empirical Analysis of Dilemma Zone Using High-Resolution Event-Based Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
 
-<p align="center">
+<p align="center" style="margin-bottom: 0;">
   <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 50%;">
 </p>
-<p align="center">
+<p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">01/08/2024: Poster presentation</span>
 </p>
 
@@ -53,7 +53,7 @@ author_profile: true
 
 - April 13, 2023: **Awarded** the *Roots for Resilience Data Science Scholarship* ($7,000)
 
-<p align="center">
+<p align="center" style="margin-bottom: 0;">
   <img src="/images/news/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width: 50%;">
 </p>
 <p align="center">
