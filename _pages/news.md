@@ -15,8 +15,10 @@ author_profile: true
     - January 8: Presented a poster on “Empirical Analysis of Dilemma Zone Using High-Resolution Event-Based Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
 
 <figure style="text-align: center;">
-    <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width:0%;">
-    <figcaption>01/08/2024: Poster presentation</figcaption>
+    <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width:50%;">
+    <figcaption style="text-align: center;">
+        01/08/2024: Poster presentation
+    </figcaption>
 </figure>
 
 # 2023
@@ -53,7 +55,9 @@ author_profile: true
 
 <figure style="text-align: center;">
     <img src="/images/news/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width:50%;">
-    <figcaption>11/21/2023: Certification for completing the Roots for Resilience program and CyVerse FOSS workshops</figcaption>
+    <figcaption style="text-align: center;">
+        11/21/2023: Certification for completing the Roots for Resilience program and CyVerse FOSS workshops
+    </figcaption>
 </figure>
 
 - April 13, 2023: Awarded *UArizona NITC Travel Support Award* ($1,492.12)
