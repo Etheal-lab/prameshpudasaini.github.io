@@ -15,7 +15,7 @@ author_profile: true
     - January 8: Presented a poster on “Empirical Analysis of Dilemma Zone Using High-Resolution Event-Based Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
 
 <figure style="text-align: center;">
-    <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width:50%;">
+    <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 60%; display: block;">
     <figcaption style="text-align: center;">
         01/08/2024: Poster presentation
     </figcaption>
@@ -54,7 +54,7 @@ author_profile: true
 - April 13, 2023: **Awarded** the *Roots for Resilience Data Science Scholarship* ($7,000)
 
 <figure style="text-align: center;">
-    <img src="/images/news/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width:50%;">
+    <img src="/images/news/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width: 60%; display: block;">
     <figcaption style="text-align: center;">
         11/21/2023: Certification for completing the Roots for Resilience program and CyVerse FOSS workshops
     </figcaption>
