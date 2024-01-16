@@ -15,8 +15,8 @@ author_profile: true
     - January 8: Presented a poster on “Empirical Analysis of Dilemma Zone Using High-Resolution Event-Based Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
 
 <figure style="text-align: center;">
-    <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width:75%; display: block; margin: 0 auto;">
-    <figcaption style="text-align: center;">01/08/2023: Presenting poster at the TRBAM</figcaption>
+    <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width:50%;">
+    <figcaption>01/08/2024: Poster presentation</figcaption>
 </figure>
 
 # 2023
