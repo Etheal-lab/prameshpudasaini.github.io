@@ -47,8 +47,8 @@ author_profile: true
 - April 13, 2023: **Awarded** the *Roots for Resilience Data Science Scholarship* ($7,000)
 
 <figure>
-    <img src="/files/images/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width:100%">
-    <figcaption>11/21/2023: Awarded certificate for completion of the R4R program and CyVerse FOSS workshops.</figcaption>
+    <img src="/files/images/20231121_R4R_Certificate.jpg" alt="Fall 2023 R4R Certificate" style="width:50%">
+    <figcaption style="text-align: center;">11/21/2023: Certification for completing the R4R program and CyVerse FOSS workshops</figcaption>
 </figure>
 
 - April 13, 2023: Awarded *UArizona NITC Travel Support Award* ($1,492.12)
