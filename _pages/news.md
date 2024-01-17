@@ -15,7 +15,7 @@ author_profile: true
     - January 8: Presented a poster on “Empirical Analysis of Dilemma Zone Using High-Resolution Event-Based Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
 
 <p align="center" style="margin-bottom: 0;">
-  <img src="/images/news/20240108_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 60%;">
+  <img src="/images/news/20240108_TRB_Poster.jpg" alt="2024 TRB Poster Presentation" style="width: 60%;">
 </p>
 <p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">01/08/2024: Poster presentation at the TRB Annual Meeting</span>
@@ -70,7 +70,7 @@ author_profile: true
     - January 11: Presented a poster on “Real-time Queue Length Estimation for Signalized Intersections using Single-channel Advance Detector Data” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
 
 <p align="center" style="margin-bottom: 0;">
-  <img src="/images/news/20230111_TRB_Poster.jpg" alt="TRB Poster Presentation" style="width: 60%;">
+  <img src="/images/news/20230111_TRB_Poster.jpg" alt="2023 TRB Poster Presentation" style="width: 60%;">
 </p>
 <p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">01/11/2023: Poster presentation at the TRB Annual Meeting</span>
@@ -92,7 +92,21 @@ author_profile: true
 
 - May 31 - June 2, 2022: Attended the *ASCE International Conference on Transportation and Development 2022* in Seattle, WA
 
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20220601_ASCE_Conference.jpg" alt="2022 ASCE ICTD Conference" style="width: 60%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">06/01/2022: UA CATS at the ASCE ICTD conference</span>
+</p>
+
 - May 17-18, 2022: Attended the *2022 AZ ITE-IMSA Spring Conference* in Phoenix, AZ
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20220518_ITE-IMSA_Conference.jpg" alt="2022 ITE-IMSA Conference" style="width: 60%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">05/18/2022: Networking at the ITE-IMSA Conference</span>
+</p>
 
 - May 16, 2022: Awarded *UArizona NITC Travel Support Award* ($500)
 
