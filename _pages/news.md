@@ -25,6 +25,13 @@ author_profile: true
 
 - December 1, 2023: Presented a lecture on “An XGBoost-based Optimization Framework for Vehicle Reidentification at Intersection Approach” in the *CE 596A Graduate Seminar* at the University of Arizona
 
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20231201_CE_Seminar.jpg" alt="CE 596A Seminar Presentation" style="width: 60%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">12/01/2023: Lecture presentation at the CE 596A Graduate Seminar</span>
+</p>
+
 - November 22, 2023: **Awarded** the *Graduate and Professional Student Council (GPSC) Travel Grant* ($980)
 
 - November 6, 2023: Hosted and organized the third *UAITE Speaker Series Event* for networking and a guest speaker presentation on "Solving Transportation Problems to Improve People's Lives - A Career in Transportation"
@@ -33,6 +40,13 @@ author_profile: true
 
 - October 15-17, 2023: Attended the *2023 INFORMS Annual Meeting* in Phoenix, AZ
     - October 16: **Presented a lecture** on "Applying Data-Driven Research to Real-World Traffic Operations Issues (Authors: Pramesh Pudasaini, Yao-Jan Wu)
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20231016_INFORMS_Conference.jpg" alt="2023 INFORMS Conference" style="width: 60%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">10/16/2023: Lecture presentation at the INFORMS Annual Meeting</span>
+</p>
 
 - October 11, 2023: Hosted and co-organized the second *UAITE Speaker Series Event*, in partnership with the Southern Arizona ITE Chapter, for networking and a guest speaker presentation on the "City of Tucson Downtown Links Project"
 
@@ -47,13 +61,20 @@ author_profile: true
 - June 15-16, 2023: Attended the *ASCE International Conference on Transportation and Development 2023* in Austin, TX
     - June 16: **Presented a lecture** on “Intersection Queue Length Estimation using High-Resolution Event Data” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
 
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20230616_ASCE_Conference.jpg" alt="2023 ASCE ICTD Conference" style="width: 60%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">06/16/2023: Lecture presentation at the ASCE ICTD conference</span>
+</p>
+
 - May 23, 2023: **Elected as President** of the *UA Institute of Transportation Engineers (UAITE) Student Chapter* for academic year 2023-24 at the University of Arizona
 
 <p align="center" style="margin-bottom: 0;">
   <img src="/images/news/20230905_UAITE_ASUA.jpg" alt="UAITE ASUA Club Showcase" style="width: 60%;">
 </p>
 <p align="center" style="margin-top: 0;">
-  <span style="font-size: smaller;">09/05/2023: Attending the Associated Students of the University of Arizona (ASUA) annual club showcase</span>
+  <span style="font-size: smaller;">09/05/2023: UAITE officers attending the annual club showcase</span>
 </p>
 
 - May 15, 2023: **Appointed as Manager** of the *Smart Transportation Lab* for academic year 2023-24 at the University of Arizona 
@@ -100,16 +121,23 @@ author_profile: true
 - May 31 - June 2, 2022: Attended the *ASCE International Conference on Transportation and Development 2022* in Seattle, WA
 
 <p align="center" style="margin-bottom: 0;">
-  <img src="/images/news/20220601_ASCE_Conference.jpg" alt="2022 ASCE ICTD Conference" style="width: 60%;">
+  <img src="/images/news/20220601_ASCE_Conference.JPG" alt="2022 ASCE ICTD Conference" style="width: 60%;">
 </p>
 <p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">06/01/2022: UA CATS at the ASCE ICTD conference</span>
 </p>
 
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20230111_TRB_Poster.jpg" alt="2023 TRB Poster Presentation" style="width: 60%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">01/11/2023: Poster presentation at the TRB Annual Meeting</span>
+</p>
+
 - May 17-18, 2022: Attended the *2022 AZ ITE-IMSA Spring Conference* in Phoenix, AZ
 
 <p align="center" style="margin-bottom: 0;">
-  <img src="/images/news/20220518_ITE-IMSA_Conference.jpg" alt="2022 ITE-IMSA Conference" style="width: 60%;">
+  <img src="/images/news/20220518_ITE-IMSA_Conference.JPG" alt="2022 ITE-IMSA Conference" style="width: 60%;">
 </p>
 <p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">05/18/2022: Networking at the ITE-IMSA Conference</span>
