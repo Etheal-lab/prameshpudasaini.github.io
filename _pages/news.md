@@ -2,7 +2,7 @@
 layout: archive
 title: "In the Spotlight: Recent Updates"
 permalink: /news/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
@@ -124,7 +124,7 @@ author_profile: false
   <img src="/images/news/20220601_ASCE_Conference.JPG" alt="2022 ASCE ICTD Conference" style="width: 60%;">
 </p>
 <p align="center" style="margin-top: 0;">
-  <span style="font-size: smaller;">06/01/2022: UA CATS at the ASCE ICTD conference</span>
+  <span style="font-size: smaller;">06/01/2022: UA CATS faculty and students at the ASCE ICTD</span>
 </p>
 
 - May 17-18, 2022: Attended the *2022 AZ ITE-IMSA Spring Conference* in Phoenix, AZ
@@ -133,7 +133,7 @@ author_profile: false
   <img src="/images/news/20220518_ITE-IMSA_Conference.JPG" alt="2022 ITE-IMSA Conference" style="width: 60%;">
 </p>
 <p align="center" style="margin-top: 0;">
-  <span style="font-size: smaller;">05/18/2022: Networking at the ITE-IMSA Conference</span>
+  <span style="font-size: smaller;">05/18/2022: Networking at the ITE-IMSA conference</span>
 </p>
 
 - May 16, 2022: Awarded *UArizona NITC Travel Support Award* ($500)
@@ -164,6 +164,12 @@ author_profile: false
 
 - May 22, 2019: **Defended Master’s thesis** titled “A multi-objective analysis of a petroleum transportation network under uncertainty” in the *Department of Civil Engineering* at Pulchowk Campus, Tribhuvan University
 
-- April 2017: **Started M.S.** in *Transportation Engineering* at Pulchowk Campus, Tribhuvan University 
+- April 2017: Started *M.Sc. in Transportation Engineering* at Pulchowk Campus, Tribhuvan University 
 
 - March 22, 2017: **Joined Nepal Oil Corporation Limited** as a *Deputy Manager (Civil Engineer, Level 7)*
+
+- September 18, 2016: Joined Nepal Intermodal Transport Development Board as a *Civil Engineer*
+
+- September, 2015: Graduated with *Bachelor's in Civil Engineering* from Pulchowk Campus, Tribhuvan University
+
+- November, 2011: Started *Bachelor's in Civil Engineering* at Pulchowk Campus, Tribhuvan University
