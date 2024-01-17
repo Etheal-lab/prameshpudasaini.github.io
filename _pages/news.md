@@ -49,6 +49,13 @@ author_profile: true
 
 - May 23, 2023: **Elected as President** of the *UA Institute of Transportation Engineers (UAITE) Student Chapter* for academic year 2023-24 at the University of Arizona
 
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20230905_UAITE_ASUA.jpg" alt="UAITE ASUA Club Showcase" style="width: 60%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">09/05/2023: Attending the Associated Students of the University of Arizona (ASUA) annual club showcase</span>
+</p>
+
 - May 15, 2023: **Appointed as Manager** of the *Smart Transportation Lab* for academic year 2023-24 at the University of Arizona 
 
 - April 13, 2023: **Awarded** the *Roots for Resilience Data Science Scholarship* ($7,000)
