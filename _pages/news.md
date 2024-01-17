@@ -127,13 +127,6 @@ author_profile: true
   <span style="font-size: smaller;">06/01/2022: UA CATS at the ASCE ICTD conference</span>
 </p>
 
-<p align="center" style="margin-bottom: 0;">
-  <img src="/images/news/20230111_TRB_Poster.jpg" alt="2023 TRB Poster Presentation" style="width: 60%;">
-</p>
-<p align="center" style="margin-top: 0;">
-  <span style="font-size: smaller;">01/11/2023: Poster presentation at the TRB Annual Meeting</span>
-</p>
-
 - May 17-18, 2022: Attended the *2022 AZ ITE-IMSA Spring Conference* in Phoenix, AZ
 
 <p align="center" style="margin-bottom: 0;">
