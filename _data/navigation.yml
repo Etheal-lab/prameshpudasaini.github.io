@@ -1,19 +1,19 @@
 # navigation bar menus
 main:
   - title: "Research"
-    url: /research/
+    url: /research
 
   - title: "Projects"
-    url: /projects/
+    url: /projects
     
   - title: "Resume"
     url: /files/Resume_v2310.pdf
 
   - title: "Publications"
-    url: /publications/
+    url: /publications
 
   - title: "Talks"
-    url: /talks/
+    url: /talks
 
   - title: "News"
-    url: /news/
+    url: /news

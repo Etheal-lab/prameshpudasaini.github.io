@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "In the Spotlight: Recent Updates"
-permalink: /news/
+permalink: /news
 author_profile: true
 ---
 
