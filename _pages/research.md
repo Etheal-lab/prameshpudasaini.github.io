@@ -17,8 +17,12 @@ author_profile: true
 
 # Optimization of Petroleum Transportation Network: Phase I (2019)
 
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/research/2021_optimization_petroleum_I.png" alt="Optimization of Petroleum Transportation Network: Phase I" style="width: 100%;">
+</p>
+
 - **Focus**: multi-objective optimization of petroleum transportation network under demand uncertainty
 - **Objectives**: formulate mathematical models for multi-objective optimization in deterministic and stochastic settings; generate Pareto optimal solutions to analyze trade-offs; propose decision-support tool for tactical planning (product flow allocation)
 - **Tools used**: [GAMS](https://www.gams.com/) for optimization ([code sample](https://github.com/prameshpudasaini/biobjective_petroleum/blob/main/optimization/gams-stochastic-t3.gms)), Excel for data analysis & visualization
-- **Affiliation**: Master's student at Pulchowk Campus, Tribhuvan University; Deputy Manager at Nepal Oil Corporation Limited
-- **Publication**: "A multi-objective analysis of a petroleum transportation network under uncertainty" (paper)
+- **Affiliation**: Master's student at Tribhuvan University; Deputy Manager at Nepal Oil Corporation Limited
+- **Publication**: "A multi-objective analysis of a petroleum transportation network under uncertainty" ([paper link](https://doi.org/10.1504/IJLSM.2021.120254))
