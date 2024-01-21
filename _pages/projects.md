@@ -11,6 +11,15 @@ This page summarizes highlights of my ongoing and past projects and research. Mo
 
 📅 Last updated: January 21, 2024
 
+___
+
+This page summarizes highlights of my ongoing and past projects and research. More details on a specific work are available in the linked final report or research paper.
+
+📅 Last updated: January 21, 2024
+
+---
+---
+
 # Research: Rural Road Network Redundancy (2020)
 
 - **Focus**: multi-objective optimization of petroleum transportation network under demand uncertainty
@@ -19,7 +28,7 @@ This page summarizes highlights of my ongoing and past projects and research. Mo
 - **Affiliation**: Master's student at Pulchowk Campus, Tribhuvan University; Deputy Manager at Nepal Oil Corporation Limited
 - **Publication**: "Integrated planning of downstream petroleum supply chain: a multi-objective stochastic approach" ([paper](https://doi.org/10.1016/j.orp.2021.100189))
 
----
+***
 
 # Research: Optimization of Petroleum Transportation Network (Phase II, 2019-20)
 
