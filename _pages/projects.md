@@ -11,31 +11,32 @@ This page summarizes highlights of my ongoing and past projects and research. Mo
 
 📅 Last updated: January 21, 2024
 
-___
+<hr style="border: 2px solid black;">
 
 This page summarizes highlights of my ongoing and past projects and research. More details on a specific work are available in the linked final report or research paper.
 
 📅 Last updated: January 21, 2024
 
----
----
+<hr style="border: 2px solid grey;">
+<hr style="border: 2px solid #808080;">
+<hr style="border: 2px solid #c0c0c0;">
 
-# Research: Rural Road Network Redundancy (2020)
+# Research: Pre-Disaster Planning of Rural Road Networks (2019-20)
 
 - **Focus**: multi-objective optimization of petroleum transportation network under demand uncertainty
 - **Goals**: develop a mathematical multi-objective optimization model; analyze Pareto optimal solutions in deterministic and stochastic settings
 - **Tools used**: [GAMS](https://www.gams.com/) for optimization ([code sample](https://github.com/prameshpudasaini/biobjective_petroleum/blob/main/optimization/gams-stochastic-t3.gms)), Excel for data analysis & visualization
-- **Affiliation**: Master's student at Pulchowk Campus, Tribhuvan University; Deputy Manager at Nepal Oil Corporation Limited
-- **Publication**: "Integrated planning of downstream petroleum supply chain: a multi-objective stochastic approach" ([paper](https://doi.org/10.1016/j.orp.2021.100189))
+- **Affiliation**: Center for Infrastructure Development Studies, Tribhuvan University
+- **Publication**: "Rural road network performance and pre-disaster planning: an assessment methodology considering redundancy" ([paper](https://doi.org/10.1080/03081060.2021.1956809))
 
-***
+<hr style="border: 2px solid #808080;">
 
 # Research: Optimization of Petroleum Transportation Network (Phase II, 2019-20)
 
 - **Focus**: multi-objective optimization of petroleum transportation network under demand uncertainty
 - **Goals**: develop a mathematical multi-objective optimization model; analyze Pareto optimal solutions in deterministic and stochastic settings
 - **Tools used**: [GAMS](https://www.gams.com/) for optimization ([code sample](https://github.com/prameshpudasaini/biobjective_petroleum/blob/main/optimization/gams-stochastic-t3.gms)), Excel for data analysis & visualization
-- **Affiliation**: Master's student at Pulchowk Campus, Tribhuvan University; Deputy Manager at Nepal Oil Corporation Limited
+- **Affiliation**: Master's graduate at Tribhuvan University, Deputy Manager at Nepal Oil Corporation Limited
 - **Publication**: "Integrated planning of downstream petroleum supply chain: a multi-objective stochastic approach" ([paper](https://doi.org/10.1016/j.orp.2021.100189))
 
 ---
