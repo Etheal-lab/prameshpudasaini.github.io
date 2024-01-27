@@ -33,3 +33,7 @@ Some notable research contributions during my PhD include developing an XGBoost-
 ## Background & History
 
 I graduated with a Master's degree in Transportation Engineering in 2019 and a Bachelor's degree in Civil Engineering in 2015, both from Tribhuvan University, Nepal. Prior to starting my PhD in August 2021, I worked for 4.5 years as a Deputy Manager at Nepal Oil Corporation Limited ([NOCL](https://noc.org.np)), a government company managing import, transportation, storage, and distribution of petroleum products. In this role, I managed procurement and contract of medium-scale civil construction and consulting tasks, assisted senior project managers and the department director on large-scale projects, and mentored three junior engineers and two overseers. Before my tenure at NOCL, I undertook similar responsibilites as a Civil Engineer at Nepal Intermodal Transport Development Board ([NITDB](https://nitdb.gov.np/en/)), a governmental authority managing dry ports in Nepal. Details of my prior research and industry experiences are available [here](https://pudasaini.com/files/Resume_v2310.pdf).
+
+<p align="center">
+  <img src="/images/home/affiliations.jpg" alt="Work experience timeline" style="width: 100%;">
+</p>
