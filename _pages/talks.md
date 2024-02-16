@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-📅 Last updated: January 12, 2024
+📅 Last updated: February 15, 2024
 
 # Conference Presentations
 
@@ -21,9 +21,11 @@ author_profile: true
 
 # Invited Talks & Presentations
 
-- P. Pudasaini, “An XGBoost-based Optimization Framework for Vehicle Reidentification at Intersection Approach,” Presented at the CE 596A Graduate Seminar, The University of Arizona, December 2023.
+- P. Pudasaini, “Evaluating communication technologies for effective traffic monitoring: experimental design & data analysis ,” Presented at the CATS Project Presentation Meeting Series, The University of Arizona, January 2023.
 
-- P. Pudasaini, “Evaluating communication technologies for effective traffic monitoring: Project overview,” Presented at the CATS Project Presentation Meeting Series, The University of Arizona, September 2023.
+- P. Pudasaini, “An XGBoost-based optimization framework for vehicle reidentification at intersection approach,” Presented at the CE 596A Graduate Seminar, The University of Arizona, December 2023.
+
+- P. Pudasaini, “Evaluating communication technologies for effective traffic monitoring: project overview,” Presented at the CATS Project Presentation Meeting Series, The University of Arizona, September 2023.
 
 - P. Pudasaini, “Dynamic traffic assignment modeling of valencia corridor,” Presented at the CATS Project Presentation Meeting Series, The University of Arizona, February 2023.
 

@@ -7,9 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-📅 Last updated: January 16, 2024
+📅 Last updated: February 15, 2024
 
 # 2024
+
+- February 9, 2024: Awarded *UArizona NITC Travel Support Award* ($1,500)
+
+- January 24, 2024: Presented “Evaluating Communication Technologies for Effective Traffic Monitoring: Experimental Design & Data Analysis” in the *CATS Project Presentation Meeting Series* at the University of Arizona
 
 - January 7-11, 2024: Attended the *Transportation Research Board 103rd Annual Meeting* in Washington, D.C.
     - January 8: Presented a poster on “Empirical Analysis of Dilemma Zone Using High-Resolution Event-Based Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
