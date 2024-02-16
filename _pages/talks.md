@@ -19,7 +19,7 @@ author_profile: true
 
 - P. Pudasaini, A. Karimpour, and Y.-J. Wu, “Real-time, cycle-based queue length estimation for signalized intersections using single-channel advance detector data,” Poster presented at the Transportation Research Board Annual Meeting, Washington, D.C., January 2023.
 
-# Invited Talks & Presentations
+# Invited Talks
 
 - P. Pudasaini, “Evaluating communication technologies for effective traffic monitoring: experimental design & data analysis ,” Presented at the CATS Project Presentation Meeting Series, The University of Arizona, January 2023.
 
