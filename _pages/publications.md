@@ -7,9 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-📅 Last updated: January 12, 2024
+📅 Last updated: March 12, 2024
 
 # Journal Papers
+
+- P. Pudasaini, H. Haule, and Y.-J. Wu, “XGBoost-based optimization framework for vehicle reidentification between detectors at signalized intersections,” *Transportation Research Part C: Emerging Technologies*, 2023, (Under review).
 
 - P. Pudasaini, H. Haule, and Y.-J. Wu, “Empirical analysis of dilemma zone using high-resolution event data,” *Transportmetrica B: Transport Dynamics*, 2023, (Under review).
 
