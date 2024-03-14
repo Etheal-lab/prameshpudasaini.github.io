@@ -16,11 +16,33 @@ This page (under development) summarizes the highlights of my ongoing and past p
 # Wireless Traffic Communication
 ### *Project with the City of Phoenix Street Transportation Department (5/2023 - Present)*
 
+<hr style="border: 2px solid #eeeeee;">
+
 # Evaluating Traffic Count Accuracy
 ### *NCHRP Project Collaboration with the Texas Transportation Institute (5/2023 - Present)*
 
+<hr style="border: 2px solid #eeeeee;">
+
 # Dynamic Traffic Assignment (DTA) Modeling
 ### *Project with the Pima County Department of Transportation (3/2022 - 5/2023)*
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/projects/2022_PCDOT_DTA.png" alt="DTA Modeling of Valencia Corridor" style="width: 100%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">DTA modeling of Valencia corridor study area (speed analysis for base model)</span>
+</p>
+
+- **Scope**: DTA modeling of Valencia corridor using DynusT
+- **Tasks**
+  - updated DynusT base model for the Pima County region with 2021 demand data for cars and trucks collected from StreetLight Insight platform
+  - calibrated and validated the base model through iterative simulation
+  - performed detailed analysis of the base model and three scenarios for different measures of effectiveness
+- **Tools used**: DynusT for DTA simulation, Python for data processing, R for data visualization
+- **Publication**: Y.-J. Wu and **P. Pudasaini**, “Dynamic traffic assignment modeling of Valencia Corridor,” Pima County Department of Transportation, Tech. Rep., May 2023.
+- **Affiliation**: Graduate Research Assistant, Center for Applied Transportation Sciences, University of Arizona
+
+<hr style="border: 2px solid #eeeeee;">
 
 # Traffic Signal Retiming
 ### *Project with the City of Phoenix Street Transportation Department (9/2021 - 12/2022)*
