@@ -30,7 +30,7 @@ This page (under development) summarizes the highlights of my ongoing and past r
   - lack of cheap and high-quality driver behavior data (that could be obtained from reidentification) at safety-critical yellow onset periods
 - **Contributions**
   - proposed a novel reidentification framework with two components: ML models for accurately predicting the travel time between detectors and an optimization model that utilizes these predicted travel time and actuation events for reidentifying vehicles
-  - four ML models (Decision Tree Regression, Support Vector Regression, Random Forest, and XGBoost) tested for predicting travel time between detectors based on information available at only the advance location [code](https://github.com/prameshpudasaini/vehicle_reidentification/blob/main/script/ML_reidentification.ipynb)
+  - four ML models (Decision Tree Regression, Support Vector Regression, Random Forest, and XGBoost) tested for predicting travel time between detectors based on information available at only the advance location ([code](https://github.com/prameshpudasaini/vehicle_reidentification/blob/main/script/ML_reidentification.ipynb))
   - 95.4% precision and 92% recall obtained in vehicle reidentification by the XGBoost-based framework
   - superior reidentification accuracy compared to state-of-the-art analytical models
 - **Tools used**: SQL, Python for data processing and optimization, R for analysis and visualization, [GitHub](https://github.com/prameshpudasaini/vehicle_reidentification)
