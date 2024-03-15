@@ -16,10 +16,50 @@ This page (under development) summarizes the highlights of my ongoing and past r
 # Vehicle Reidentification
 ### *PhD Dissertation Research (8/2023 - 3/2024)*
 
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/research/2024_vehicle_reidentification.jpg" alt="Vehicle Reidentification" style="width: 100%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">Study site for vehicle reidentification (left), proposed framework (right) </span>
+</p>
+
+- **Objective**: empirically analyze existing dilemma zone quantifications to assess their consistency and overlap
+- **Challenges**
+  - inaccurate results of zone boundary and subsequent safety analyses if dilemma zones are quantified differently
+  - integrated analysis and comparison of Type I and II dilemma zones unavailable in existing literature
+- **Contributions**
+  - proposed a novel rule-based analytical matching algorithm (with accuracy improvements over existing models) to match actuation events between detector locations
+  - estimated driving behavior parameters defined by Type I dilemma zone using high-resolution signal and detector data
+  - found 13.2% of vehicles falling into an indecision zone or making stop/go decisions contrary to the laws of physics while approaching an intersection
+  - first study to assess consistency and overlap of different dilemma zone quantifications
+- **Tools used**: SQL, Python for data processing and analysis, R for visualization, [GitHub](https://github.com/prameshpudasaini/dilemma_zone)
+- **Publication**: **P. Pudasaini**, H. Haule, and Y.-J. Wu, “Empirical analysis of dilemma zone using high-resolution event data,” *Transportmetrica B: Transport Dynamics*, 2023, (Under review).
+- **Affiliation**: PhD Student, Center for Applied Transportation Sciences, University of Arizona
+
 <hr style="border: 2px solid #eeeeee;">
 
 # Dilemma Zone Analysis
-### *PhD Dissertation Research (1/2023 - 11/2023)*
+### *PhD Dissertation Research (1/2023 -7/2023)*
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/research/2023_dilemma_analysis.jpg" alt="Dilemma Zone Analysis" style="width: 100%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">Dilemma zone quantification approaches (left), overlap of boundaries as found in this research (right) </span>
+</p>
+
+- **Objective**: empirically analyze existing dilemma zone quantifications to assess their consistency and overlap
+- **Challenges**
+  - inaccurate results of zone boundary and subsequent safety analyses if dilemma zones are quantified differently
+  - integrated analysis and comparison of Type I and II dilemma zones unavailable in existing literature
+- **Contributions**
+  - proposed a novel rule-based analytical matching algorithm (with accuracy improvements over existing models) to match actuation events between detector locations
+  - estimated driving behavior parameters defined by Type I dilemma zone using high-resolution signal and detector data
+  - found 13.2% of vehicles falling into an indecision zone or making stop/go decisions contrary to the laws of physics while approaching an intersection
+  - first study to assess consistency and overlap of different dilemma zone quantifications
+- **Tools used**: SQL, Python for data processing and analysis, R for visualization, [GitHub](https://github.com/prameshpudasaini/dilemma_zone)
+- **Publication**: **P. Pudasaini**, H. Haule, and Y.-J. Wu, “Empirical analysis of dilemma zone using high-resolution event data,” *Transportmetrica B: Transport Dynamics*, 2023, (Under review).
+- **Affiliation**: PhD Student, Center for Applied Transportation Sciences, University of Arizona
 
 <hr style="border: 2px solid #eeeeee;">
 
@@ -27,7 +67,7 @@ This page (under development) summarizes the highlights of my ongoing and past r
 ### *PhD Dissertation Research (5/2022 - 7/2022)*
 
 <p align="center" style="margin-bottom: 0;">
-  <img src="/images/research/2023_queue estimation.jpg" alt="Queue Length Estimation" style="width: 100%;">
+  <img src="/images/research/2023_queue_estimation.jpg" alt="Queue Length Estimation" style="width: 100%;">
 </p>
 <p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">Single-channel advance video detection (left), queueing phenomenon and breakpoints (right)</span>
@@ -41,7 +81,7 @@ This page (under development) summarizes the highlights of my ongoing and past r
 - **Contributions**
   - proposed an estimation methodology based on queuing phenomenon and empirical observation of breakpoints when vehicles pass the advance detector
   - real-time queue estimation with 86% accuracy, obviating the need for manual calibration of threshold parameters
-- **Tools used**: R for data processing, analysis, and visualization, [GitHub](https://github.com/prameshpudasaini/queue_estimation)
+- **Tools used**: SQL, R for data processing and visualization, [GitHub](https://github.com/prameshpudasaini/queue_estimation)
 - **Publication**: **P. Pudasaini**, A. Karimpour, and Y.-J. Wu, “Real-time queue length estimation for signalized intersections using single-channel advance detector data,” *Transportation Research Record*, vol. 2677, no. 7, pp. 144–156, 2023, doi: [10.1177/03611981221151066](https://doi.org/10.1177/03611981221151066).
 - **Affiliation**: PhD Student, Center for Applied Transportation Sciences, University of Arizona
 
@@ -72,7 +112,7 @@ This page (under development) summarizes the highlights of my ongoing and past r
 ### *Master's Thesis Research (1/2019 - 1/2021)*
 
 <p align="center" style="margin-bottom: 0;">
-  <img src="/images/research/2019_petroleum_optimization_II.png" alt="Optimization of Petroleum Transportation Network" style="width: 100%;">
+  <img src="/images/research/2019_petroleum_optimization_II.jpg" alt="Optimization of Petroleum Transportation Network" style="width: 100%;">
 </p>
 <p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">Multi-modal and multi-product shipping pattern for a Pareto optimal solution</span>

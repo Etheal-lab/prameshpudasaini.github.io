@@ -51,7 +51,7 @@ This page (under development) summarizes the highlights of my ongoing and past p
   - updated DynusT base model for the Pima County region with 2021 demand data for cars and trucks collected from StreetLight Insight platform
   - calibrated and validated the base model through iterative simulation
   - performed detailed analysis and cross-comparison of the base model and three scenarios for different measures of effectiveness
-- **Tools used**: DynusT for DTA simulation, Python for data processing, [GitHub](https://github.com/prameshpudasaini/DTA), R for data visualization
+- **Tools used**: DynusT for DTA simulation, Python for data processing, R for data visualization, [GitHub](https://github.com/prameshpudasaini/DTA)
 - **Publication**: Y.-J. Wu and **P. Pudasaini**, “Dynamic traffic assignment modeling of Valencia Corridor,” Pima County Department of Transportation, Tech. Rep., May 2023.
 
 <hr style="border: 2px solid #eeeeee;">
