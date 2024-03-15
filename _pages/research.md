@@ -23,17 +23,18 @@ This page (under development) summarizes the highlights of my ongoing and past r
   <span style="font-size: smaller;">Study site for vehicle reidentification (left), proposed framework (right) </span>
 </p>
 
-- **Objective**: empirically analyze existing dilemma zone quantifications to assess their consistency and overlap
+- **Objective**: propose and test an ML-based optimization framework to reidentify vehicles between detector locations while approaching an intersection
 - **Challenges**
-  - inaccurate results of zone boundary and subsequent safety analyses if dilemma zones are quantified differently
-  - integrated analysis and comparison of Type I and II dilemma zones unavailable in existing literature
+  - vehicles approaching an intersection detected at discrete locations, but not linked or connected
+  - reidentification difficult in case of non-visual data from loop detectors
+  - lack of cheap and high-quality driver behavior data (that could be obtained from reidentification) at safety-critical yellow onset periods
 - **Contributions**
-  - proposed a novel rule-based analytical matching algorithm (with accuracy improvements over existing models) to match actuation events between detector locations
-  - estimated driving behavior parameters defined by Type I dilemma zone using high-resolution signal and detector data
-  - found 13.2% of vehicles falling into an indecision zone or making stop/go decisions contrary to the laws of physics while approaching an intersection
-  - first study to assess consistency and overlap of different dilemma zone quantifications
-- **Tools used**: SQL, Python for data processing and analysis, R for visualization, [GitHub](https://github.com/prameshpudasaini/dilemma_zone)
-- **Publication**: **P. Pudasaini**, H. Haule, and Y.-J. Wu, “Empirical analysis of dilemma zone using high-resolution event data,” *Transportmetrica B: Transport Dynamics*, 2023, (Under review).
+  - proposed a novel reidentification framework with two components: ML models for accurately predicting the travel time between detectors and an optimization model that utilizes these predicted travel time and actuation events for reidentifying vehicles
+  - four ML models (Decision Tree Regression, Support Vector Regression, Random Forest, and XGBoost) tested for predicting travel time between detectors based on information available at only the advance location [code](https://github.com/prameshpudasaini/vehicle_reidentification/blob/main/script/ML_reidentification.ipynb)
+  - 95.4% precision and 92% recall obtained in vehicle reidentification by the XGBoost-based framework
+  - superior reidentification accuracy compared to state-of-the-art analytical models
+- **Tools used**: SQL, Python for data processing and optimization, R for analysis and visualization, [GitHub](https://github.com/prameshpudasaini/vehicle_reidentification)
+- **Publication**: **P. Pudasaini**, H. Haule, and Y.-J. Wu, “XGBoost-based optimization framework for vehicle reidentification between detectors at signalized intersections,” *Transportation Research Part C: Emerging Technologies*, 2023, (Under review).
 - **Affiliation**: PhD Student, Center for Applied Transportation Sciences, University of Arizona
 
 <hr style="border: 2px solid #eeeeee;">
@@ -115,7 +116,7 @@ This page (under development) summarizes the highlights of my ongoing and past r
   <img src="/images/research/2019_petroleum_optimization_II.jpg" alt="Optimization of Petroleum Transportation Network" style="width: 100%;">
 </p>
 <p align="center" style="margin-top: 0;">
-  <span style="font-size: smaller;">Multi-modal and multi-product shipping pattern for a Pareto optimal solution</span>
+  <span style="font-size: smaller;">Existing network (left), shipping pattern for a Pareto optimal solution (right)</span>
 </p>
 
 - **Objective**: multi-objective optimization of petroleum transportation network under demand uncertainty
