@@ -21,7 +21,7 @@ This page (under development) summarizes the highlights of my ongoing and past p
   - reviewed technical specification and protocols of nine communication devices suggested by the City of Phoenix team; coordinated communication with corresponding vendors for price quotes
   - formulated an experimental design for quantitatively assessing communication and cost effectiveness of different devices
   - coordinate installation of selected devices at test sites; collect and analyze before-after data for evaluating communication performance (ongoing)
-- **Tools used**: SQL, Python for data processing, R for data visualization
+- **Tools used**: SQL, Python for data processing, R for data visualization, [GitHub](https://github.com/prameshpudasaini/wireless_communication)
 
 <hr style="border: 2px solid #eeeeee;">
 
@@ -51,7 +51,7 @@ This page (under development) summarizes the highlights of my ongoing and past p
   - updated DynusT base model for the Pima County region with 2021 demand data for cars and trucks collected from StreetLight Insight platform
   - calibrated and validated the base model through iterative simulation
   - performed detailed analysis and cross-comparison of the base model and three scenarios for different measures of effectiveness
-- **Tools used**: DynusT for DTA simulation, Python for data processing, R for data visualization
+- **Tools used**: DynusT for DTA simulation, Python for data processing, [GitHub](https://github.com/prameshpudasaini/DTA), R for data visualization
 - **Publication**: Y.-J. Wu and **P. Pudasaini**, “Dynamic traffic assignment modeling of Valencia Corridor,” Pima County Department of Transportation, Tech. Rep., May 2023.
 
 <hr style="border: 2px solid #eeeeee;">
@@ -78,5 +78,5 @@ This page (under development) summarizes the highlights of my ongoing and past p
   - conducted a comprehensive literature review to identify measures for corridor mobility analysis and network-wide performance evaluation using multiple traffic data sources
   - programmed and deployed scripts using R Shiny, SQL, and Docker to develop a network-wide mobility assessment tool for assessing corridor-level traffic operations and safety metrics
   - proposed a methodology to create time-space diagrams along consecutive intersections using high-resolution event data from signal controllers and detectors
-- **Tools used**: SQL, R for data analysis and visualization, Shiny and Docker for dashboard deployment
+- **Tools used**: SQL, R for data analysis and visualization, Shiny and Docker for dashboard deployment, [GitHub](https://github.com/prameshpudasaini/corridor_assessment)
 - **Publication**: Y.-J. Wu, A. Karimpour, and **P. Pudasaini**, “Statistical comparisons of traffic data for traffic signal retiming,” City of Phoenix Street Transportation Department, Tech. Rep., December 2022.
