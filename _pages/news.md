@@ -7,9 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-📅 Last updated: March 12, 2024
+📅 Last updated: March 16, 2024
 
 # 2024
+
+- March 13, 2024: **Awarded** the Jenny L. Grote Student Leadership Award by the ITE Arizona Section ($1,000)
 
 - February 9, 2024: Awarded UArizona NITC Travel Support Award ($1,500)
 
