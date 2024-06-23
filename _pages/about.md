@@ -10,17 +10,19 @@ redirect_from:
 
 {% include base_path %}
 
+<!-->
 ## 🔔 Seeking Data Science Internship for Summer 2024
 
 I bring three years of research experience using machine learning and operations research tools (adept in Python, R, SQL, GAMS), plus five years of hands-on industry experience in project management and leadership.
+-->
 
 # About
 
-I am a PhD student at the University of Arizona with a major in Transportation Engineering and a minor in Statistics & Data Science. I work as a Graduate Research Assistant at the Center for Applied Transportation Sciences (CATS) and the Manager of the Smart Transportation Lab (STL), both directed by my PhD advisor, Dr. [Yao-Jan Wu](https://www.yaojan.org). Additionally, I am also the President of the University of Arizona Institute of Transportation Engineers (UAITE) Student Chapter for the academic year 2023-24. Find my latest news and updates [here](https://pudasaini.com/news).
+I am a PhD candidate at the University of Arizona, majoring in Transportation Engineering with a minor in Statistics & Data Science. I currently work as a Graduate Research Assistant at the Center for Applied Transportation Sciences (CATS), directed by my PhD advisor, Dr. [Yao-Jan Wu](https://www.yaojan.org). Previously, I served as the Manager of the Smart Transportation Lab (STL) and as the President of the University of Arizona Institute of Transportation Engineers (UAITE) Student Chapter for the academic year 2023-24. You can find my latest news and updates [here](https://pudasaini.com/news).
 
 # Work & Research
 
-My fundamental problem-solving approach is grounded in theory-driven foundational understanding of a problem, followed by empirical analysis and decision-making. This principle shapes my PhD research, where I focus on understanding traffic operations and safety problems from first principles, before engineering potential data-driven solutions by integrating statistics, machine learning, and operations research tools. 
+My fundamental problem-solving approach is grounded in theory-driven foundational understanding of a problem, followed by empirical analysis and decision-making. This principle shapes my PhD research, where I focus on understanding traffic operations and safety problems from first principles, before engineering potential data-driven solutions by integrating statistics, machine learning, and operations research tools.
 
 Some notable research contributions during my PhD include developing an XGBoost-based optimization framework for reidentifying vehicles approaching an intersection, empirically analyzing drivers' stop/go dilemma when facing the yellow light, developing an algorithmic model to predict experienced travel time based on multi-source traffic data, and formulating a real-time queue length estimation model using highly noisy data of vehicle detection from video sensors. My prior research utilized operations research tools and investigated optimizing the transportation network of a large-scale, cross-country petroleum supply chain under demand uncertainty and multi-objective settings. Details of my ongoing and past works are available [here](https://pudasaini.com/projects).
 
