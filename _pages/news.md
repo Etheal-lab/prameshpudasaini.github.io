@@ -7,9 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-📅 Last updated: March 16, 2024
+📅 Last updated: June 23, 2024
 
 # 2024
+
+- June 15-18, 2024: Attended the ASCE International Conference on Transportation and Development 2023 in Austin, TX
+    - June 17: Presented a lecture on “Analyzing Dilemma Zone Using an Analytical Vehicle Matching Algorithm and High-Resolution Event Data” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
+    - June 17: Presented a poster on “Evaluating Effectiveness of Wireless Communication Technologies in Arterial Traffic Operations” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20240617_ASCE_Conference.jpg" alt="2024 ASCE ICTD" style="width: 75%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">06/17/2024: Lecture and poster presentations at the ASCE ICTD</span>
+</p>
+
+- May 20, 2024: **Passed** PhD Comprehensive Exam and became a candidate. Proposed dissertation is titled "Methodologies for Enhancing Operations and Safety at Signalized Intersections using High-Resolution Event Data".
+
+- April 3, 2024: Attended the 2024 AZ ITE-IMSA Annual Spring Conference in Phoenix, AZ
 
 - March 13, 2024: **Awarded** the Jenny L. Grote Student Leadership Award by the ITE Arizona Section ($1,000)
 
@@ -45,7 +60,7 @@ author_profile: true
 - November 2, 2023: Attended the 2021 Arizona Conference on Roads & Streets in Tucson, AZ
 
 - October 15-17, 2023: Attended the 2023 INFORMS Annual Meeting in Phoenix, AZ
-    - October 16: **Presented a lecture** on "Applying Data-Driven Research to Real-World Traffic Operations Issues (Authors: Pramesh Pudasaini, Yao-Jan Wu)
+    - October 16: Presented a lecture on "Applying Data-Driven Research to Real-World Traffic Operations Issues (Authors: Pramesh Pudasaini, Yao-Jan Wu)
 
 <p align="center" style="margin-bottom: 0;">
   <img src="/images/news/20231016_INFORMS_Conference.jpg" alt="2023 INFORMS Conference" style="width: 75%;">
@@ -65,13 +80,13 @@ author_profile: true
 - September 6, 2023: Presented “Evaluating Communication Technologies for Effective Traffic Monitoring: Project Overview” in the CATS Project Presentation Meeting Series at the University of Arizona
 
 - June 15-16, 2023: Attended the ASCE International Conference on Transportation and Development 2023 in Austin, TX
-    - June 16: **Presented a lecture** on “Intersection Queue Length Estimation using High-Resolution Event Data” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
+    - June 16: Presented a lecture on “Intersection Queue Length Estimation using High-Resolution Event Data” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
 
 <p align="center" style="margin-bottom: 0;">
-  <img src="/images/news/20230616_ASCE_Conference.jpg" alt="2023 ASCE ICTD Conference" style="width: 75%;">
+  <img src="/images/news/20230616_ASCE_Conference.jpg" alt="2023 ASCE ICTD" style="width: 75%;">
 </p>
 <p align="center" style="margin-top: 0;">
-  <span style="font-size: smaller;">06/16/2023: Lecture presentation at the ASCE ICTD conference</span>
+  <span style="font-size: smaller;">06/16/2023: Lecture presentation at the ASCE ICTD</span>
 </p>
 
 - May 23, 2023: **Elected as President** of the UA Institute of Transportation Engineers (UAITE) Student Chapter for academic year 2023-24 at the University of Arizona
@@ -127,13 +142,13 @@ author_profile: true
 - May 31 - June 2, 2022: Attended the ASCE International Conference on Transportation and Development 2022 in Seattle, WA
 
 <p align="center" style="margin-bottom: 0;">
-  <img src="/images/news/20220601_ASCE_Conference.JPG" alt="2022 ASCE ICTD Conference" style="width: 75%;">
+  <img src="/images/news/20220601_ASCE_Conference.JPG" alt="2022 ASCE ICTD" style="width: 75%;">
 </p>
 <p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">06/01/2022: UA CATS faculty and students at the ASCE ICTD</span>
 </p>
 
-- May 17-18, 2022: Attended the 2022 AZ ITE-IMSA Spring Conference in Phoenix, AZ
+- May 17-18, 2022: Attended the 2022 AZ ITE-IMSA Annual Spring Conference in Phoenix, AZ
 
 - May 16, 2022: Awarded UArizona NITC Travel Support Award ($500)
 
