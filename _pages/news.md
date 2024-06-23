@@ -11,9 +11,9 @@ author_profile: true
 
 # 2024
 
-- June 15-18, 2024: Attended the ASCE International Conference on Transportation and Development 2023 in Austin, TX
-    - June 17: Presented a lecture on “Analyzing Dilemma Zone Using an Analytical Vehicle Matching Algorithm and High-Resolution Event Data” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
-    - June 17: Presented a poster on “Evaluating Effectiveness of Wireless Communication Technologies in Arterial Traffic Operations” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
+- June 15-18, 2024: Attended the ASCE International Conference on Transportation and Development 2024 in Atlanta, GA
+    - June 17: Presented a lecture on “Analyzing Dilemma Zone Using an Analytical Vehicle Matching Algorithm and High-Resolution Event Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
+    - June 17: Presented a poster on “Evaluating Effectiveness of Wireless Communication Technologies in Arterial Traffic Operations” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
 
 <p align="center" style="margin-bottom: 0;">
   <img src="/images/news/20240617_ASCE_Conference.JPG" alt="2024 ASCE ICTD" style="width: 75%;">
