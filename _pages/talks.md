@@ -7,9 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-📅 Last updated: February 15, 2024
+📅 Last updated: June 23, 2024
 
 # Conference Presentations
+
+- **P. Pudasaini**, H. Haule, and Y.-J. Wu, “Analyzing Dilemma Zone Using an Analytical Vehicle Matching Algorithm and High-Resolution Event Data,” Lecture presented at the ASCE International Conference on Transportation and Development, Atlanta, June 2024.
+
+- **P. Pudasaini**, H. Haule, and Y.-J. Wu, “Evaluating Effectiveness of Wireless Communication Technologies in Arterial Traffic Operations,” Poster presented at the ASCE International Conference on Transportation and Development, Atlanta, June 2024.
 
 - **P. Pudasaini**, H. Haule, and Y.-J. Wu, “Empirical analysis of dilemma zone using high-resolution event-based data,” Poster presented at the Transportation Research Board Annual Meeting, Washington, D.C., January 2024.
 
