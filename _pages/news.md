@@ -22,11 +22,13 @@ author_profile: true
   <span style="font-size: smaller;">06/17/2024: Lecture and poster presentations at the ASCE ICTD</span>
 </p>
 
+- June 7, 2024: Awarded UArizona NITC Travel Support Award ($1,459.62)
+
 - May 20, 2024: **Passed** PhD Comprehensive Exam and became a candidate. Proposed dissertation is titled "Methodologies for Enhancing Operations and Safety at Signalized Intersections using High-Resolution Event Data".
 
 - April 3, 2024: Attended the 2024 AZ ITE-IMSA Annual Spring Conference in Phoenix, AZ
 
-- March 13, 2024: **Awarded** the Jenny L. Grote Student Leadership Award by the ITE Arizona Section ($1,000)
+- March 13, 2024: **Awarded** the Jenny L. Grote Student Leadership Award by the ITE Arizona Section ($1,500)
 
 - February 9, 2024: Awarded UArizona NITC Travel Support Award ($1,500)
 
