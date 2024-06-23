@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-->
+<!--
 ## 🔔 Seeking Data Science Internship for Summer 2024
 
 I bring three years of research experience using machine learning and operations research tools (adept in Python, R, SQL, GAMS), plus five years of hands-on industry experience in project management and leadership.
