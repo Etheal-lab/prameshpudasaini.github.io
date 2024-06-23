@@ -16,7 +16,7 @@ author_profile: true
     - June 17: Presented a poster on “Evaluating Effectiveness of Wireless Communication Technologies in Arterial Traffic Operations” (Authors: Pramesh Pudasaini, Abolfazl Karimpour, Yao-Jan Wu)
 
 <p align="center" style="margin-bottom: 0;">
-  <img src="/images/news/20240617_ASCE_Conference.jpg" alt="2024 ASCE ICTD" style="width: 75%;">
+  <img src="/images/news/20240617_ASCE_Conference.JPG" alt="2024 ASCE ICTD" style="width: 75%;">
 </p>
 <p align="center" style="margin-top: 0;">
   <span style="font-size: smaller;">06/17/2024: Lecture and poster presentations at the ASCE ICTD</span>
