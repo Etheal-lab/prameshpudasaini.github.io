@@ -11,6 +11,16 @@ author_profile: true
 
 # 2024
 
+- June 19-21, 2024: Attended the 2024 ITE Mountain District Annual Meeting in Big Sky, MT
+    - June 20: University of Arizona won Third Place in the ITE Student Traffic Bowl 5th Annual Competition
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="/images/news/20240620_MDITE_Conference.JPG" alt="2024 Mountain District ITE Annual Meeting" style="width: 75%;">
+</p>
+<p align="center" style="margin-top: 0;">
+  <span style="font-size: smaller;">06/20/2024: Competing in the Mountain District ITE Student Traffic Bowl</span>
+</p>
+
 - June 15-18, 2024: Attended the ASCE International Conference on Transportation and Development 2024 in Atlanta, GA
     - June 17: Presented a lecture on “Analyzing Dilemma Zone Using an Analytical Vehicle Matching Algorithm and High-Resolution Event Data” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
     - June 17: Presented a poster on “Evaluating Effectiveness of Wireless Communication Technologies in Arterial Traffic Operations” (Authors: Pramesh Pudasaini, Henrick Haule, Yao-Jan Wu)
