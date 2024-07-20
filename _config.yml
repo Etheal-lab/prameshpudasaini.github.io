@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Pramesh Pudasaini"
+name                     : &name "TEGEGNE WORKINEH LIYEW"
 description              : &description "personal description"
-url                      : https://prameshpudasaini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://workineh-liyew.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "prameshpudasaini/prameshpudasaini.github.io"
+repository               : "workineh-liyew/workineh-liyew.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pramesh Pudasaini"
-  avatar           : "profile_pramesh_grey.jpg"
-  bio              : "PhD Student, Navigating Transportation Science with ML & Operations Research"
-  location         : "Tucson, AZ"
-  employer         : "University of Arizona"
+  name             : "TEGEGNE WORKINEH LIYEW "
+  avatar           : "profile.jpg"
+  bio              : "Master Student, Road and Railway Engineering"
+  location         : "Beijing, China"
+  employer         : "Beijing Jiaotong University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DIGFMf4AAAAJ"
-  email            : "pramesh@arizona.edu"
+  email            : "23129032@bjtu.edu.cn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "prameshpudasaini"
+  github           : "workineh-liyew"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "pramesh-pudasaini"
+  linkedin         : "workineh-liyew"
   orcid            : 
   pinterest        :
   soundcloud       :

@@ -1,7 +1,7 @@
 # navigation bar menus
 main:
-  - title: "Projects"
-    url: /projects
+  - title: "Education"
+    url: /educations
 
   - title: "Research"
     url: /research
